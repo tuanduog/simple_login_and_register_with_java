@@ -7,9 +7,9 @@
 ### Clone Repo 
 ### Install Workbench and configuration 
 (https://dev.mysql.com/downloads/)
-String url = "jdbc:mysql://localhost:3306/log_res"; 
-String dbUser = "tuanduog"; 
-String dbPass = "abc123!@#"; 
+String url = "jdbc:mysql://localhost:3306/log_res";<br>
+String dbUser = "tuanduog"; <br>
+String dbPass = "abc123!@#"; <br>
 * Replace them with your account and schema 
 * Change in PreaparedStatement with your sql table
 # Instruction 
