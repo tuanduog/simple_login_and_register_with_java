@@ -6,7 +6,7 @@
 # Install 
 ### Clone Repo 
 ### Install Workbench and configuration 
-(https://dev.mysql.com/downloads/)
+(https://dev.mysql.com/downloads/)<br>
 String url = "jdbc:mysql://localhost:3306/log_res";<br>
 String dbUser = "tuanduog"; <br>
 String dbPass = "abc123!@#"; <br>
